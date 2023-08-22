@@ -4,7 +4,10 @@
 
 Amena offers services for both transport companies and movers, providing features such as a platform for posting advertisements and requests. Additionally, Amena provides an interface to track transportation and moving activities. It also includes a feature to rent vehicles through a dedicated interface. Lastly, Amena includes a gamification interface, aiming to make the user experience more engaging and interactive.
 
-This project is built using JavaFX, a robust and versatile framework for creating visually appealing and user-friendly Java-based graphical interfaces.
+The website is built using Symfony 5.<br>
+The desktop application is built using JavaFX.<br>
+The mobile application is developed using Codename One, consuming Symfony 5 services.
+
 ---
 
 ## AMENA - Vehicle Renting
